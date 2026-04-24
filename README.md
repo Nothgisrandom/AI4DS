@@ -24,9 +24,9 @@ Department of Mathematics \& Statistics, North Carolina A\&T State University, G
 
 \- `RCode/` — R scripts and R Markdown files used for data preparation, analysis, and figure generation  
 
-\- `Student\_figures/` — figures generated from the student survey analyses  
+\- `Student_figures/` — figures generated from the student survey analyses  
 
-\- `Faculty\_figures/` — figures generated from the faculty survey analyses  
+\- `Faculty_figures/` — figures generated from the faculty survey analyses  
 
 \- `figures\_all/` — combined and supplementary figure outputs  
 
