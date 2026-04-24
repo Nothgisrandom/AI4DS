@@ -28,8 +28,6 @@ Department of Mathematics \& Statistics, North Carolina A\&T State University, G
 
 \- `Faculty_figures/` — figures generated from the faculty survey analyses  
 
-\- `figures\_all/` — combined and supplementary figure outputs  
-
 \- `README.md` — repository overview and reproduction guide  
 
 
