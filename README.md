@@ -34,7 +34,7 @@ To reproduce the results reported in the paper:
 
 2\. Run the analysis files in `RCode/` for data preparation, composite score construction, statistical analyses, and figure generation.
 
-3\. Review output figures in `Student\_figures/`, `Faculty\_figures/`, and `figures\_all/`.
+3\. Review output figures in `Student\_figures/` and `Faculty\_figures/`.
 
 
 
