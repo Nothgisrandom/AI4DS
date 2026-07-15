@@ -5,7 +5,6 @@ This repository accompanies the paper:
 Perceptions and Utilization of GenAI Tools among Data Science Students and Faculty 
 The full text article is available at:
 https://doi.org/10.6339/26-JDS1233  
-https://jds-online.org/journal/JDS/article/1491/inf
 
 Hasan, A. M., \& Mostafa, S. A. 
 
@@ -37,7 +36,7 @@ To reproduce the results reported in the paper:
 
 1\. Use the files in `data/` as the analytic input data.
 
-2\. Run the analysis files in `RCode/` for data preparation, composite score construction, statistical analyses, and figure generation.
+2\. Run the analysis files in `RCode/` to prepare data, construct composite scores, perform statistical analyses, and generate figures.
 
 3\. Review output figures in `Student\_figures/` and `Faculty\_figures/`.
 
