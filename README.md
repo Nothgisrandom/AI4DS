@@ -2,9 +2,12 @@
 
 This repository accompanies the paper:
 
-Perceptions and Utilization of GenAI Tools among Data Science Students and Faculty
+Perceptions and Utilization of GenAI Tools among Data Science Students and Faculty 
+The full text article is available at:
+https://doi.org/10.6339/26-JDS1233  
+https://jds-online.org/journal/JDS/article/1491/inf
 
-Hasan, A. M., \& Mostafa, S. A.
+Hasan, A. M., \& Mostafa, S. A. 
 
 Department of Mathematics \& Statistics, 
 North Carolina A\&T State University, Greensboro, NC, USA
@@ -54,5 +57,5 @@ North Carolina A\&T State University
 
 Greensboro, NC, USA
 
-amhasan1@ncat.edu
+Email: amhasan1@ncat.edu
 
