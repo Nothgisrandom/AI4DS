@@ -12,6 +12,8 @@ Hasan, A. M., \& Mostafa, S. A.
 Department of Mathematics \& Statistics, 
 North Carolina A\&T State University, Greensboro, NC, USA
 
+Citation: Abeer M. Hasan, Sayed A. Mostafa, Perceptions and Utilization of GenAI Tools Among Data Science Students and Faculty, J. data sci.(2026), 1-17, DOI 10.6339/26-JDS1233
+
 
 \## Repository Structure
 
